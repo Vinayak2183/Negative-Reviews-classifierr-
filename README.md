@@ -18,7 +18,7 @@ This project includes:
 - WordCloud Visualization
 - Text Classification using Machine Learning models
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3.x
 - Jupyter Notebook
